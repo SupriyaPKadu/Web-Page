@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+}
+
+.header-class {
+    background: #f2f2f2;
+    height: 70px;
+
+}
+
+.nicepage-logo {
+
+    position: relative;
+    top: 15px;
+    left: 10px;
+
+}
+
+.icons-class {
+    position: relative;
+    align-items: center;
+    position: relative;
+    left: 30%;
+    padding: 10px;
+}
+
+#close-button {
+    align-items: end;
+    margin-left: 28%;
+}
+
+
+
+.nav-class {
+
+    height: 81px;
+    position: relative;
+
+
+}
+
+.logo-design {
+
+
+    margin-left: 50px;
+    padding: 10px;
+
+}
+
+
+.page-data {
+    justify-content: center;
+    margin: 20px;
+    position: relative;
+    left: 20%;
+
+
+}
+
+.img-conatiner {
+
+    position: relative;
+}
+
+.content {
+
+
+    position: absolute;
+    top: 80px;
+    left: 40%;
+    margin: 10px;
+
+    color: white;
+    align-items: center;
+}
+
+.content>h1 {
+
+    font-size: 4.5rem;
+}
+
+.content>p {
+
+    padding: 10px;
+}
+
+.content>a {
+    margin-top: 10px;
+    padding: 11px;
+}
+
+.cards {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.cards>img {
+    position: relative;
+    transform: translateY(-50%);
+    object-fit: contain;
+    margin-inline: 2.5%;
+    border: 2.5vh solid white;
+}
+
+
+
+.footer-class {
+
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    padding: 5%;
+    background-color: gray;
+
+
+
+}
